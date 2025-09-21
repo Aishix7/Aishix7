@@ -27,8 +27,8 @@ I am seeking opportunities as a **Software Developer** or **Front-End Developer*
 
 ## 📈 GitHub Stats
 
-![Hithaishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hithaishi714&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hithaishi714&layout=compact&theme=radical)
+![Hithaishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishix7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishix7&layout=compact&theme=radical)
 
 ---
 
